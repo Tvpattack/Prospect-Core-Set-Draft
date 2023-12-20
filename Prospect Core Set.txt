@@ -1728,7 +1728,6 @@
 	        }
 	    }
 	]
-	[RareSlot(1)]
 	[UncommonSlot(3)]
 		3 UM01 — Arrogant Arcanist
 		3 UM02 — Corpse Knight
