@@ -1923,5 +1923,3 @@
 		6 CU12 — Quench
 		6 CA01 — Forgotten Watcher
 		6 CW11 — Bitterwing
-	[BasicSlot(1)]
-	
